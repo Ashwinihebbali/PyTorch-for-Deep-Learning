@@ -10,8 +10,6 @@
 
 ## 📌 Overview
 
-This repository documents my learning journey **PyTorch for Deep Learning**.
-
 The goal of this repository is to build a strong foundation in **Deep Learning using PyTorch**, starting from basics and progressing towards building and training neural networks from scratch.
 
 ---
