@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-This repository documents my learning journey through the **PyTorch for Deep Learning Professional Certificate** by **DeepLearning.AI**, instructed by **Laurence Moroney**.
+This repository documents my learning journey **PyTorch for Deep Learning**.
 
 The goal of this repository is to build a strong foundation in **Deep Learning using PyTorch**, starting from basics and progressing towards building and training neural networks from scratch.
 
@@ -25,16 +25,6 @@ The goal of this repository is to build a strong foundation in **Deep Learning u
 - Work with real-world datasets
 - Implement optimization and loss functions
 
----
-
-## 📚 Course Details
-
-- 🎓 **Course**: PyTorch for Deep Learning Professional Certificate  
-- 🏢 **Platform**: DeepLearning.AI through Coursera
-- 👨‍🏫 **Instructor**: Laurence Moroney  
-- 📖 **Focus**: Neural Networks, Model Training, PyTorch Implementation  
-
----
 
 ## 🧠 Topics Covered
 
