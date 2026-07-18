@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/pytorch-deep-learning-journey)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-blue)](https://github.com/yourusername/pytorch-deep-learning-journey)
+[![Last  Updated](https://img.shields.io/badge/Last%20Updated-March%202026-blue)](https://github.com/yourusername/pytorch-deep-learning-journey)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/yourusername/pytorch-deep-learning-journey)
 
 A comprehensive, hands-on repository to master Deep Learning using PyTorch. This repository is designed for learners at all levels—from complete beginners to those looking to deepen their understanding of neural networks and deep learning concepts.
