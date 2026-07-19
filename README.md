@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md) 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/pytorch-deep-learning-journey)
 [![Last  Updated](https://img.shields.io/badge/Last%20Updated-March%202026-blue)](https://github.com/yourusername/pytorch-deep-learning-journey)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/yourusername/pytorch-deep-learning-journey)
